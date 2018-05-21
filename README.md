@@ -7,4 +7,4 @@ Include common my implementation of data structures, algorithm, leetcode and lin
 
 | # | Title | Solution | Difficulty |Idea |Similar problem
 |---| ----- | -------- | ---------- |---- |---------------
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Java](https://github.com/chengjz/leetcode/code/)2. Add Two Numbers|Medium|dummy node/count|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[Java](https://github.com/chengjz/leetcode/code/2. Add Two Numbers)|Medium|dummy node/count|
