@@ -3,7 +3,7 @@ Data structures and Algorithms
 Include common my implementation of data structures, algorithm, leetcode and lintcode problems
 ### LeetCode Algorithm
 
-[code]https://github.com/chengjz/leetcode
+[code]https://github.com/chengjz/leetcode/code
 
 | # | Title | Solution | Difficulty |Idea |Similar problem
 |---| ----- | -------- | ---------- |---- |---------------
